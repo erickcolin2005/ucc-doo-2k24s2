@@ -1,0 +1,9 @@
+total 4
+drwxrwxrwx 1 erickcolin erickcolin  512 Aug 23 19:51 ./
+drwxrwxrwx 1 erickcolin erickcolin  512 Aug 23 19:22 ../
+drwxrwxrwx 1 erickcolin erickcolin  512 Aug 23 19:22 .git/
+-rwxrwxrwx 1 erickcolin erickcolin  290 Aug 23 19:22 .gitignore*
+-rwxrwxrwx 1 erickcolin erickcolin   16 Aug 23 19:22 README.md*
+-rwxrwxrwx 1 erickcolin erickcolin 2082 Aug 23 19:50 archivo-01-huellas.txt*
+-rwxrwxrwx 1 erickcolin erickcolin  112 Aug 23 19:51 archivo-02-huellas.txt*
+-rwxrwxrwx 1 erickcolin erickcolin    0 Aug 23 19:51 archivo-03-huellas.txt*
