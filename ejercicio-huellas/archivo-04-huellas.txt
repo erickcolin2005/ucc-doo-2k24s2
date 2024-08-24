@@ -1,0 +1,6 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:15 ?        00:00:00 /init
+root         4     1  0 19:15 ?        00:00:00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --socket-path /mnt/c/Users/ASUS/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc/LocalState/fsserver --log-truncate
+root        29     1  0 19:15 tty2     00:00:00 /init
+erickco+    30    29  0 19:15 tty2     00:00:03 -bash
+erickco+   652    30  0 20:36 tty2     00:00:00 ps -fea
